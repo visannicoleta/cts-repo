@@ -1,0 +1,24 @@
+#
+#	Produse initiale
+#
+
+initial	CiocolataMilka	3.59	20
+initial	CerealeNesquik	5.00	5
+
+#
+# 	testare cu valori normale
+#	expected	procent
+#
+
+87.12	10
+77.44	20
+
+58.08	40
+
+#
+#	testare cu valori aflate la limita
+#	expected	procent
+#
+
+96.79032	0.01
+
